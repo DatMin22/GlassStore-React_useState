@@ -1,0 +1,30 @@
+.bg {
+    height: 100vh;
+    background: url(
+        https://images.unsplash.com/photo-1488998427799-e3362cec87c3?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+        no-repeat center/ cover;
+}
+.model__left {
+    position: relative;
+}
+
+.card-img-content {
+    position: absolute;
+    background-color: rgba(187, 109, 7, 0.324);
+    padding: 0.4rem;
+    bottom: 13%;
+    font-size: small;
+}
+.glass {
+    width: 100px;
+    position: absolute;
+    top: 23%;
+    left: 25%;
+}
+
+.glass1 {
+    width: 100px;
+    position: relative;
+    top: -64.5%;
+    left: 25%;
+}
